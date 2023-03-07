@@ -65,7 +65,7 @@ li {
 }
 
 .top-container img {
-    width: 100%;
+    max-width: 200%;
 }
 
 .mission-bar {
